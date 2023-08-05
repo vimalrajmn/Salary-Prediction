@@ -1,1 +1,1 @@
-# Salary-Prediction
+# Salary-prediction-by-ML
